@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فايسبوك مجاني</string>
+    <string name="errorMessage">المرجو تشغيل البيانات</string>
+    <string name="home_title">الرئيسية</string>
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="messages_title" translatable="false">الرسائل</string>
+    <string name="notifications_title" translatable="false">الإشعارات</string>
+    <string name="friends_title" translatable="false">الأصدقاء</string>
+    <string name="groups_title" translatable="false">المجموعات</string>
+</resources>
